@@ -1,10 +1,10 @@
+#####################################
 ######################Overview
 
 PSToExe is a Visual Studio project allowing you to run PowerShell Scripts as Executables. Appart from that it encrypts the PowerShell Script
 so it is unreadable to the user.
 
-
-
+#####################################
 ######################Steps to Build
 
 You write your script as any other PS Script.
@@ -21,8 +21,7 @@ You put this TXT file into the PSExe project with "Embedded Resource" build acti
 
 Build your project and your exe is ready.
 
-
-
+#####################################
 ######################Result
 
 The Exe will unpack three files to the directory it is run in. (You can change that to a directory in Program data in Program.cs)
