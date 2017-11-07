@@ -1,0 +1,10 @@
+c:\users\georgilub\documents\visual studio 2015\Projects\ExePS\ExePS\bin\Debug\ExePS.exe
+c:\users\georgilub\documents\visual studio 2015\Projects\ExePS\ExePS\bin\Debug\ExePS.pdb
+c:\users\georgilub\documents\visual studio 2015\Projects\ExePS\ExePS\obj\Debug\ExePS.csprojResolveAssemblyReference.cache
+c:\users\georgilub\documents\visual studio 2015\Projects\ExePS\ExePS\obj\Debug\ExePS.exe
+c:\users\georgilub\documents\visual studio 2015\Projects\ExePS\ExePS\obj\Debug\ExePS.pdb
+C:\Desktop\Temp\GitHub\PSToExe\ExePS\obj\Debug\ExePS.exe
+C:\Desktop\Temp\GitHub\PSToExe\ExePS\obj\Debug\ExePS.pdb
+C:\Desktop\Temp\GitHub\PSToExe\ExePS\bin\Debug\ExePS.exe
+C:\Desktop\Temp\GitHub\PSToExe\ExePS\bin\Debug\ExePS.pdb
+C:\Desktop\Temp\GitHub\PSToExe\ExePS\obj\Debug\ExePS.csprojResolveAssemblyReference.cache
