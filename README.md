@@ -4,6 +4,7 @@ PSToExe is a Visual Studio project allowing you to run PowerShell Scripts as Exe
 so it is unreadable to the user.
 
 
+
 ######################Steps to Build
 
 You write your script as any other PS Script.
@@ -19,6 +20,7 @@ Encrypt_Decrypt.ps1 will produce a TXT file with the same name as your script.
 You put this TXT file into the PSExe project with "Embedded Resource" build action. After that change the Key and Script filename in Program.cs.
 
 Build your project and your exe is ready.
+
 
 
 ######################Result
